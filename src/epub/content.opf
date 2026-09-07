@@ -58,8 +58,8 @@
 		<dc:language>en-GB</dc:language>
 		<!-- Tristan / Tonio Kröger (German 1903, translation 1924) -->
 		<!-- Death in Venice (German 1912, translation 1924) -->
-		<dc:source>https://archive.org/details/deathinvenice0000thom_f9a3</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/66073</dc:source>
+		<dc:source>https://archive.org/details/deathinvenice0000thom_f9a3</dc:source>
 		<!-- Bashan and I (German 1918, translation 1923) -->
 		<dc:source>https://www.gutenberg.org/ebooks/61284</dc:source>
 		<dc:source>https://archive.org/details/bashan01tm</dc:source>
@@ -124,14 +124,10 @@
 		<dc:contributor id="transcriber-5">John Routh</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Routh, John</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-6">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-6">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-6" rel="schema:url"/>
+		<dc:contributor id="transcriber-6">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Distributed Proofreaders Canada</meta>
+		<link href="https://www.pgdpcanada.net/" refines="#transcriber-6" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-7">Distributed Proofreaders Canada</dc:contributor>
-		<meta property="file-as" refines="#transcriber-7">Distributed Proofreaders Canada</meta>
-		<link href="https://www.pgdpcanada.net/" refines="#transcriber-7" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<link href="https://www.robinwhittleton.com/" refines="#producer-1" rel="schema:url"/>
