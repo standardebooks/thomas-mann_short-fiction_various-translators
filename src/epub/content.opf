@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-09-09T16:48:38Z</dc:date>
+		<meta property="dcterms:modified">2026-09-09T16:48:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -51,9 +51,9 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta property="schema:abstract">A collection of Thomas Mann’s short stories, ordered by date of their original publication.</meta>
 		<dc:description>
-			&lt;p&gt;While it was &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann’s&lt;/a&gt; longer work &lt;a href="https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter"&gt;&lt;i&gt;Buddenbrooks&lt;/i&gt;&lt;/a&gt; that established his fame, he was already a published author of short fiction, primarily in the satirical magazine &lt;i&gt;Simplicissimus&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;A typical Mann short story always has some element of psychological disquiet. Earlier in his career this often manifested in behaviours that caused ridicule to the protagonists (“Little Louise,” “The Path to the Cemetery”) but this evolved into characters that combine extrasocietal behaviour with a seeming inability to halt their progress into chaos (“Death in Venice,” “Mario and the Magician”). Woven through this are common themes: the secret world of children, the social mores of Wilhelmine Germany, and a love of dogs.&lt;/p&gt;
-			&lt;p&gt;This collection includes many of Mann’s best known works. Particularly famous is “Death in Venice,”—the candidly autobiographical story of a staid author becoming obsessed with a beautiful boy—which the &lt;i&gt;Encyclopædia Britannica&lt;/i&gt; included in its &lt;a href="https://standardebooks.org/collections/encyclopaedia-britannicas-great-books-of-the-western-world"&gt;“Great Books of the Western World”&lt;/a&gt; set.&lt;/p&gt;
+			&lt;p&gt;By the time &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann’s&lt;/a&gt; longer work &lt;a href="https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter"&gt;&lt;i&gt;Buddenbrooks&lt;/i&gt;&lt;/a&gt; finally established his fame, he had already been a published author of short fiction, primarily in the satirical magazine &lt;i&gt;Simplicissimus&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;A typical Mann short story always has some element of psychological disquiet. Earlier in his career this often manifested in his stories as behaviors that caused the protagonists to endure ridicule (“Little Louise,” “The Path to the Cemetery”), but this evolved into entire characters who combine extra-societal behavior with a seeming inability to halt their descent into chaos (“Death in Venice,” “Mario and the Magician”). Woven through this are common themes: the secret world of children, the social mores of Wilhelmine Germany, and a love of dogs.&lt;/p&gt;
+			&lt;p&gt;This collection includes many of Mann’s best known works. Particularly famous is “Death in Venice,” the candidly autobiographical story of a staid author’s obsession with a beautiful boy, which the &lt;i&gt;Encyclopædia Britannica&lt;/i&gt; included in its &lt;a href="https://standardebooks.org/collections/encyclopaedia-britannicas-great-books-of-the-western-world"&gt;Great Books of the Western World&lt;/a&gt; set.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- Tristan / Tonio Kröger (German 1903, translation 1924) -->
@@ -76,8 +76,8 @@
 		<!-- Mario and the Magician (German 1930, translation 1930) -->
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20210546</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006057493</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">176704</meta>
+		<meta property="schema:educationalLevel">65.76</meta>
 		<link href="https://en.wikipedia.org/wiki/Thomas_Mann#Literary_works" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -148,6 +148,10 @@
 		<meta property="file-as" refines="#producer-3">Cabal, Alex</meta>
 		<link href="https://alexcabal.com/" refines="#producer-3" rel="schema:url"/>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-4">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-4">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-4" rel="schema:url"/>
+		<meta property="role" refines="#producer-4" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
