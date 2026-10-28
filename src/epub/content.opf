@@ -76,7 +76,7 @@
 		<!-- Mario and the Magician (German 1930, translation 1930) -->
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20210546</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006057493</dc:source>
-		<meta property="schema:wordCount">176704</meta>
+		<meta property="schema:wordCount">176454</meta>
 		<meta property="schema:educationalLevel">65.76</meta>
 		<link href="https://en.wikipedia.org/wiki/Thomas_Mann#Literary_works" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
