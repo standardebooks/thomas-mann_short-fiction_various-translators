@@ -102,7 +102,7 @@
 		<dc:contributor id="translator-3">H. T. Lowe-Porter</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Lowe-Porter, H. T.</meta>
 		<meta property="schema:alternateName" refines="#translator-3">Helen Tracy Lowe-Porter</meta>
-		<link href="https://en.wikipedia.org/wiki/Helen_Tracy_Lowe-Porter" refines="#translator-3" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/H._T._Lowe-Porter" refines="#translator-3" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50040385.html" refines="#translator-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ludwig von Hofmann</dc:contributor>
@@ -111,6 +111,7 @@
 		<link href="https://id.loc.gov/authorities/names/n83222939.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Laura Natal Rodrigues</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Natal Rodrigues, Laura</meta>
@@ -140,6 +141,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="producer-2">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Anonymous</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
